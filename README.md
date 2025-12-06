@@ -1,6 +1,3 @@
-# Mouse-Position-Tracker
-A lightweight desktop utility that displays real-time mouse coordinates with dynamic UI coloring and instant copy-to-clipboard support.
-
 # 🖱️ Mouse Position Tracker
 A lightweight desktop tool built with **Python** and **Tkinter** that displays the real-time position of your mouse cursor on the screen.  
 The tool also allows you to **copy the coordinates** instantly using `Ctrl + C`.
@@ -48,7 +45,7 @@ Pressing `Ctrl + C` copies the current `x, y` coordinates.
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/Mouse-Position-Tracker.git
+git clone https://github.com/Mahamed-Emad/Mouse-Position-Tracker.git
 cd Mouse-Position-Tracker
 ```
 
